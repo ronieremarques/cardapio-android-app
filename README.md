@@ -1,10 +1,14 @@
 # MyApplication2 – Cardápio Digital para Restaurante
 
+**Obs:** *"Esse projeto foi realizado por meio de atividade do curso tecnico da [Fundação Fat](https://ensino.fundacaofat.org.br) em parceria com [Qualifica SP](https://www.alunos.cettpro.sp.gov.br/novo-emprego/cursos/dc56a505-263b-f011-b4cc-000d3a889219)";*
+
 ## Descrição
 
 Este aplicativo Android demonstra um **Cardápio Digital** para restaurantes, desenvolvido em Kotlin com Jetpack Compose. O app permite exibir pratos com imagens, vídeos, categorias e informações detalhadas, além de navegação entre diferentes telas.
 
 ## Demostração GIF
+
+[https://docs.google.com/document/d/14Yu4nVW-Crc7vrLCKIcKiSfnn8fsh2L-7h3o1EbqMg4/edit?usp=sharing](https://docs.google.com/document/d/14Yu4nVW-Crc7vrLCKIcKiSfnn8fsh2L-7h3o1EbqMg4/edit?usp=sharing)
 
 ![20250721_105150](https://github.com/user-attachments/assets/e14859c4-d54b-48bf-a490-105bb90c6aef)
 
